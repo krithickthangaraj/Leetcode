@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/krithickthangaraj/Leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->

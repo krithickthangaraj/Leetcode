@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int sum=0;
+    int sum;
     public int pathSum(TreeNode root,int rs)
     {
         if(root==null) return 0;

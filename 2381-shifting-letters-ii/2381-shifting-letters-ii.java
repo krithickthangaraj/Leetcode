@@ -1,33 +1,24 @@
 class Solution {
-    public String shiftingLetters(String s, int[][] Q) {
-        int n = s.length();
-        int[] A = new int[n];
-        for (int[] it : Q) {
-            int l = it[0];
-            int r = it[1];
-            int t = it[2];
-            if (t == 1) {
-                A[l] += 1;
-                if (r + 1 < n) {
-                    A[r + 1] -= 1;
-                }
-            } else {
-                A[l] -= 1;
-                if (r + 1 < n) {
-                    A[r + 1] += 1;
-                }
-            }
+    public String shiftingLetters(String s, int[][] shifts) {
+        int[] shiftArray = new int[s.length() + 1];
+
+        for (int[] shift : shifts) {
+            int start = shift[0];
+            int end = shift[1];
+            int direction = shift[2] == 1 ? 1 : -1;
+
+            shiftArray[start] += direction;
+            shiftArray[end + 1] -= direction;
         }
-        for (int i = 1; i < n; ++i) {
-            A[i] += A[i - 1];
+
+        int netShift = 0;
+        char[] result = s.toCharArray();
+        for (int i = 0; i < s.length(); i++) {
+            netShift += shiftArray[i];
+         int shiftValue = ((result[i] - 'a' + netShift) % 26 + 26) % 26; 
+            result[i] = (char) ('a' + shiftValue);
         }
-        char[] chars = s.toCharArray();
-        for (int i = 0; i < n; ++i) {
-            int shift = (A[i] % 26 + 26) % 26; 
-            int ch = chars[i] - 'a';
-            ch = (ch + shift) % 26;
-            chars[i] = (char) ('a' + ch);
-        }
-        return new String(chars);
+
+        return new String(result);
     }
 }

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
+| [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,8 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->

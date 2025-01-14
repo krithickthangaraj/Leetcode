@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krithickthangaraj/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krithickthangaraj/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krithickthangaraj/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/krithickthangaraj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krithickthangaraj/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search Tree
 |  |
 | ------- |

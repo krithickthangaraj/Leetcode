@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krithickthangaraj/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0747-min-cost-climbing-stairs) |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/krithickthangaraj/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krithickthangaraj/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/krithickthangaraj/Leetcode/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/krithickthangaraj/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |

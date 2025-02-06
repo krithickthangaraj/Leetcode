@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/krithickthangaraj/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
+| [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krithickthangaraj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krithickthangaraj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Graph

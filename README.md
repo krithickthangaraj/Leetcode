@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3447-clear-digits](https://github.com/krithickthangaraj/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krithickthangaraj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [3447-clear-digits](https://github.com/krithickthangaraj/Leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/krithickthangaraj/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/krithickthangaraj/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

@@ -245,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/krithickthangaraj/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/krithickthangaraj/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

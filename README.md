@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krithickthangaraj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/krithickthangaraj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/krithickthangaraj/Leetcode/tree/master/0684-redundant-connection) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/krithickthangaraj/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krithickthangaraj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/krithickthangaraj/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0516-longest-palindromic-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/krithickthangaraj/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krithickthangaraj/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

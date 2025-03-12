@@ -4,7 +4,7 @@ class Solution {
         for(String i:words){
             str+=i;
             if(str.equals(s)) return true;
-            //if(str.length()>s.length()) return false;
+            if(str.length()>s.length()) return false;
         }
         return false;
         

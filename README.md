@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krithickthangaraj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/krithickthangaraj/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/krithickthangaraj/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2128-reverse-prefix-of-word](https://github.com/krithickthangaraj/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krithickthangaraj/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/krithickthangaraj/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/krithickthangaraj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/krithickthangaraj/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

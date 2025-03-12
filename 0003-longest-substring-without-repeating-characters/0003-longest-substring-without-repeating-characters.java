@@ -5,7 +5,7 @@ class Solution {
 
         for(char i:s.toCharArray()){
             if(temp.contains(String.valueOf(i))){
-                temp = temp.substring(temp.indexOf(i) + 1);
+                temp = temp.substring(temp.indexOf(i) +1);
             }
             temp+=i;
 

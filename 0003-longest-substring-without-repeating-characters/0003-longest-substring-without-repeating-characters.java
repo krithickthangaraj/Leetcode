@@ -3,8 +3,7 @@ class Solution {
         HashSet<Character> in=new HashSet<>();
         int l=0,r=0;
         int max=0;
-        if(s.length()==1) return 1;
-        if(s.length()==0) return 0;
+    
         while(r<s.length())
         {
             if(!in.contains(s.charAt(r))){

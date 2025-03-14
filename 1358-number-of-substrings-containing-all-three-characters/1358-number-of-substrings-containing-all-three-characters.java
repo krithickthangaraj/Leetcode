@@ -1,19 +1,24 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int count = 0;
-        int left = 0;
-        int[] charCount = new int[3];
+        int l=0,r=0,c=0;
+        HashMap<Character,Integer> in=new HashMap<>();
+        while(r<s.length())
+        {
+            char str=s.charAt(r);
+            in.put(str,in.getOrDefault(str,0)+1);
 
-        for (int right = 0; right < s.length(); right++) {
-            charCount[s.charAt(right) - 'a']++;
+            while(in.size()==3){
+                c+=s.length()-r;
+                char st=s.charAt(l);
 
-            while (charCount[0] > 0 && charCount[1] > 0 && charCount[2] > 0) {
-                count += s.length() - right;
-                charCount[s.charAt(left) - 'a']--;
-                left++;
+                in.put(st,in.get(st)-1);
+                
+                if(in.get(st)==0) in.remove(st);
+                l++;                
             }
-        }
-
-        return count;
+            r++;
+            }
+            return c;
+        
     }
 }

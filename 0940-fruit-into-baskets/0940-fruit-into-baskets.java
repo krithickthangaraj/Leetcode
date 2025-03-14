@@ -12,9 +12,10 @@ class Solution {
                 if(in.get(arr[l])==0) in.remove(arr[l]);
                 l++;
             }
+             max=Math.max(max,r-l+1);
+
             r++;
             
-            max=Math.max(max,r-l);
         }
         return max;
     }

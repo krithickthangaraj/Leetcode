@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krithickthangaraj/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/krithickthangaraj/Leetcode/tree/master/2145-grid-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/krithickthangaraj/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/krithickthangaraj/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/krithickthangaraj/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/krithickthangaraj/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/krithickthangaraj/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krithickthangaraj/Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/krithickthangaraj/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krithickthangaraj/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/krithickthangaraj/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -447,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/krithickthangaraj/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

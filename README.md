@@ -514,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/krithickthangaraj/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/krithickthangaraj/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/krithickthangaraj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/krithickthangaraj/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/krithickthangaraj/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/krithickthangaraj/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/krithickthangaraj/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/krithickthangaraj/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/krithickthangaraj/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krithickthangaraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/krithickthangaraj/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/krithickthangaraj/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/krithickthangaraj/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/krithickthangaraj/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |

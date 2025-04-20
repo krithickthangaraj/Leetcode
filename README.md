@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krithickthangaraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/krithickthangaraj/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/krithickthangaraj/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krithickthangaraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/krithickthangaraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/krithickthangaraj/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/krithickthangaraj/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/krithickthangaraj/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/krithickthangaraj/Leetcode/tree/master/0504-base-7) |
+| [0797-rabbits-in-forest](https://github.com/krithickthangaraj/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/krithickthangaraj/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/krithickthangaraj/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/krithickthangaraj/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/krithickthangaraj/Leetcode/tree/master/2681-put-marbles-in-bags) |

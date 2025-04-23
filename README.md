@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/krithickthangaraj/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/krithickthangaraj/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/krithickthangaraj/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/krithickthangaraj/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krithickthangaraj/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/krithickthangaraj/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/krithickthangaraj/Leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/2050-count-good-numbers) |

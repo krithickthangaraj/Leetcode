@@ -24,7 +24,7 @@ class Solution {
                         result[l++] = 'R';
                         result[r--] = 'L';
                     }
-]                }
+                }
 
                 i = j;
             } else {

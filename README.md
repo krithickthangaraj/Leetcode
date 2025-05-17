@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/krithickthangaraj/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
 | [0768-partition-labels](https://github.com/krithickthangaraj/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/krithickthangaraj/Leetcode/tree/master/0868-push-dominoes) |

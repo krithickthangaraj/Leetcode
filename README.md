@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krithickthangaraj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/krithickthangaraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/krithickthangaraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/krithickthangaraj/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/krithickthangaraj/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/krithickthangaraj/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/krithickthangaraj/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/krithickthangaraj/Leetcode/tree/master/0684-redundant-connection) |
+| [0945-snakes-and-ladders](https://github.com/krithickthangaraj/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/krithickthangaraj/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krithickthangaraj/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0945-snakes-and-ladders](https://github.com/krithickthangaraj/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/krithickthangaraj/Leetcode/tree/master/1036-rotting-oranges) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/krithickthangaraj/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/krithickthangaraj/Leetcode/tree/master/1396-count-servers-that-communicate) |

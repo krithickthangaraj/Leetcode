@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
 | [0768-partition-labels](https://github.com/krithickthangaraj/Leetcode/tree/master/0768-partition-labels) |

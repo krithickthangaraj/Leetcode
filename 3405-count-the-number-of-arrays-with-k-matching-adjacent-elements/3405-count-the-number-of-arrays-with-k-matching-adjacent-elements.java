@@ -46,7 +46,6 @@ class Solution {
         return f[a] = (int) (getF(a - 1) * a % mod);
     }
 
-    // Modular inverse using Fermat's Little Theorem: a^(-1) ≡ a^(mod - 2)
     public long rev(long a) {
         if (a == 1)
             return a;

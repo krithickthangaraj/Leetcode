@@ -1,20 +1,14 @@
 class Solution {
-    public int[] twoSum(int[] n, int t) {
-        int arr[]=new int [2];
-        for(int i=0;i<n.length;i++)
-        
-        {
-                for(int j=i+1;j<n.length;j++)
-                {
-                    if(n[i]+n[j]==t)
-                    {
-                        arr[0]=i;
-                        arr[1]=j;
-                        return arr;
-                    }
-                }
+    public int[] twoSum(int[] nums, int t) {
+        Map<Integer,Integer> in=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            in.put(nums[i],i);
         }
-        return new int[0];
-
+        for(int i=0;i<nums.length;i++){
+            if(in.containsKey(t-nums[i])&& in.get(t-nums[i]) != i){
+                return new int[]{i,in.get(t-nums[i])};
+            }
+        }
+        return new int []{};
     }
 }

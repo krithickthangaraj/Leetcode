@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithickthangaraj/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |

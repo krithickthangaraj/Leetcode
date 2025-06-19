@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/krithickthangaraj/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/krithickthangaraj/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krithickthangaraj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/krithickthangaraj/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/krithickthangaraj/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/krithickthangaraj/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krithickthangaraj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/krithickthangaraj/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/krithickthangaraj/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/krithickthangaraj/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/krithickthangaraj/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/krithickthangaraj/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/krithickthangaraj/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krithickthangaraj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krithickthangaraj/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krithickthangaraj/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/krithickthangaraj/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/krithickthangaraj/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krithickthangaraj/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/krithickthangaraj/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/krithickthangaraj/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/krithickthangaraj/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |

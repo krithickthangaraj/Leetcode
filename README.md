@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krithickthangaraj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krithickthangaraj/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krithickthangaraj/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0407-trapping-rain-water-ii) |

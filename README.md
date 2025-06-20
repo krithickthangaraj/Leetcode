@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krithickthangaraj/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithickthangaraj/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/krithickthangaraj/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/krithickthangaraj/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/krithickthangaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/krithickthangaraj/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/krithickthangaraj/Leetcode/tree/master/0868-push-dominoes) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |

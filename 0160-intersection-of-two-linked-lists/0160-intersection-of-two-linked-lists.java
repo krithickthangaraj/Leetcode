@@ -21,13 +21,14 @@ public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int l1=count(headA);
         int l2=count(headB);
-        while(l2<l1){
-            headA=headA.next;
-            l1--;
-        }
-        while(l1<l2){
-            headB=headB.next;
-            l2--;
+        while (l1 != l2) {
+            if (l1 > l2) {
+                headA = headA.next;
+                l1--;
+            } else {
+                headB = headB.next;
+                l2--;
+            }
         }
         while(headA!=headB){
             headA=headA.next;

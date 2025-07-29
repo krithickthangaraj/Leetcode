@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krithickthangaraj/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/krithickthangaraj/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krithickthangaraj/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/krithickthangaraj/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/krithickthangaraj/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/krithickthangaraj/Leetcode/tree/master/1160-letter-tile-possibilities) |

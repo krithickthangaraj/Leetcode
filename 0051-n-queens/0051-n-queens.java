@@ -1,56 +1,36 @@
 class Solution {
 
-    public boolean safe(char[][] arr,int row,int col, int n){
-        int drow=row;
-        int dcol=col;
-
-        while(row>=0 && col>=0){
-            if(arr[row][col]=='Q'){
-                return false;
-            }
-            row--;
-            col--;
-        }
-        row=drow;
-        col=dcol;
-
-        while(col>=0){
-            if(arr[row][col]=='Q') return false;
-            col--;
-        }
-        row=drow;
-        col=dcol;
-
-        while(row<n && col>=0){
-            if(arr[row][col]=='Q') return false;
-            col--;
-            row++;
-        }
-
-        return true;
+    
 
 
-
-    }
-
-    public void solve(int col,int n,List<List<String>> in,char[][] arr ){
-
+    public void solve(int col,int n,List<List<String>> in,char[][] arr ,int[] rows, int[] lower, int[] upper){
            if(col==n){
             ArrayList<String> ch=new ArrayList<>();
 
             for(char[] i : arr){     
-                ch.add(new String(i));
-    
+                ch.add(new String(i));    
             }
             in.add(ch); 
             return ;
            }
 
+
            for(int row=0; row<n; row++){
-            if(safe(arr,row,col,n)){
-                arr[row][col]='Q';
-                solve(col+1,n,in,arr);
-                arr[row][col]='.';
+            if(rows[row]==0 && lower[row+col]==0 && upper[(n-1)+ (col-row)]==0){
+            
+            arr[row][col]='Q';
+            rows[row]=1;
+            lower[row+col]=1;
+            upper[(n-1) + (col-row)]=1;
+
+            solve(col+1,n,in,arr,rows,lower,upper);
+
+            arr[row][col]='.';
+            rows[row]=0;
+            lower[row+col]=0;
+            upper[(n-1)+ (col-row)]=0;
+
+
             }
            }
     }
@@ -61,8 +41,12 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(arr[i],'.');
         }
+        int rows[]=new int[n];
+        int upper[]=new int[2* n-1];
+        int lower[]=new int[2* n-1];
 
-        solve(0,n,in,arr);
+
+        solve(0,n,in,arr,rows,upper,lower);
         return in;
     }
 }

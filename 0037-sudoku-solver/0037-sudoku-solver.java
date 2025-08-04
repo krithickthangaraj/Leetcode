@@ -23,9 +23,12 @@ class Solution {
         int curr_row=3 *( row/3 );
         int curr_col=3* (col/3);
         for(int i=0;i<9;i++){
-            if(board[row][i]==c) return false;
-            if(board[i][col]==c) return false;
-            if(board[curr_row + i/3] [curr_col + i%3]==c) return false;
+            if(board[row][i]==c || board[i][col]==c) return false;
+        }
+        for(int i=curr_row;i<curr_row+3;i++){
+            for(int j=curr_col;j<curr_col+3;j++){
+                  if(board[i][j]==c) return false;
+            }
         }
         return true;
     }

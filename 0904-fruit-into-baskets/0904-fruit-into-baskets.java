@@ -7,7 +7,7 @@ class Solution {
             in.put(arr[r],in.getOrDefault(arr[r],0)+1);
             if(in.size()>2){
                 in.put(arr[l],in.getOrDefault(arr[l],0)-1);
-                if(in.get(arr[l])<=0) in.remove(arr[l]);
+                if(in.get(arr[l])==0) in.remove(arr[l]);
                 l++;
             }
             if(in.size()<=2){

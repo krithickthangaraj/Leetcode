@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/krithickthangaraj/Leetcode/tree/master/0504-base-7) |
 | [0797-rabbits-in-forest](https://github.com/krithickthangaraj/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/krithickthangaraj/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/krithickthangaraj/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/krithickthangaraj/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/krithickthangaraj/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/krithickthangaraj/Leetcode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/krithickthangaraj/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krithickthangaraj/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -964,4 +966,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/krithickthangaraj/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/krithickthangaraj/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

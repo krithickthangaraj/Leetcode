@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/krithickthangaraj/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/krithickthangaraj/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/krithickthangaraj/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krithickthangaraj/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/krithickthangaraj/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/krithickthangaraj/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krithickthangaraj/Leetcode/tree/master/0234-palindrome-linked-list) |

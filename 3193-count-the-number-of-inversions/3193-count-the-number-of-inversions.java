@@ -1,39 +1,40 @@
 class Solution {
-    static int mod = 1_000_000_007;
-    static Integer[][] dp;
-    
+    public static int MOD = 1000000007;
+
     public int numberOfPermutations(int n, int[][] requirements) {
-        dp = new Integer[n + 1][n * (n - 1) / 2 + 1];
         Arrays.sort(requirements, (a, b) -> a[0] - b[0]);
-        for (int[] r : requirements) {
-            if (count(r[0], r[1]) == 0) {
-                return 0;
-            }
-            // enforce the current req
-            for (int i = 0; i < dp[r[0]].length; i++) {
-                if (i != r[1]) {
-                    dp[r[0]][i] = 0;
+        int idx = 0;
+        int[] req = requirements[idx++];
+        int[] inv = new int[req[1] + 1];
+        inv[0] = 1;
+        long r = 1;
+        for (int i = 0; i < n; i++) {
+            update(inv, i + 1);
+            if (i == req[0]) {
+                r = (r * inv[inv.length - 1]) % MOD;
+                final int old = req[1];
+                if (idx < requirements.length) {
+                    req = requirements[idx++];
+                    inv = new int[req[1] - old + 1];
+                    inv[0] = 1;
                 }
             }
         }
-        int[] last = requirements[requirements.length - 1];
-        return dp[last[0]][last[1]];
+        return (int) (r);
     }
-    
-    static int count(int pos, int inv) {
-        if (inv < 0) {
-            return 0;
+
+    static void update(int[] cnt, int maxinv) {
+        long window = 0;
+        for (int i = Math.max(0, cnt.length - maxinv); i < cnt.length; i++) {
+            window += cnt[i];
         }
-        if (pos == 0) {
-            return inv == 0 ? 1 : 0;
+        for (int i = cnt.length - 1; i >= 0; i--) {
+            final int v = (int) (window % MOD);
+            window -= cnt[i];
+            if (i >= maxinv) {
+                window += cnt[i - maxinv];
+            }
+            cnt[i] = v;
         }
-        if (dp[pos][inv] != null) {
-            return dp[pos][inv];
-        }
-        int res = 0;
-        for (int i = 0; i <= pos; i++) {
-            res = (res + count(pos - 1, inv - i)) % mod;
-        }
-        return dp[pos][inv] = res;
     }
 }

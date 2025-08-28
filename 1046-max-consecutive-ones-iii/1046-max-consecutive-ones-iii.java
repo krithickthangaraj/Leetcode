@@ -5,11 +5,11 @@ class Solution {
         
         while(r<num.length)
         {
-            if(z<=k){
+            
                 if(num[r]==0) z++;
                 r++;
                 if(z<=k) max=Math.max(max,r-l);
-            }
+            
             while(z>k){
                 if(num[l]==0)  z--;
                     l++;

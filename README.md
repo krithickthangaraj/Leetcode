@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krithickthangaraj/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/krithickthangaraj/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/krithickthangaraj/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krithickthangaraj/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/krithickthangaraj/Leetcode/tree/master/0075-sort-colors) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krithickthangaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krithickthangaraj/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krithickthangaraj/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/krithickthangaraj/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Number Theory

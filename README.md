@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/krithickthangaraj/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krithickthangaraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/krithickthangaraj/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krithickthangaraj/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/krithickthangaraj/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krithickthangaraj/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krithickthangaraj/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/krithickthangaraj/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/krithickthangaraj/Leetcode/tree/master/0198-house-robber) |

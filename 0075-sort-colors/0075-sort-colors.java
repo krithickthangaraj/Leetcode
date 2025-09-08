@@ -13,6 +13,7 @@ class Solution {
             if(r<nums.length){
                 swap(l,r,nums);
                 l++;
+                r++;
                 
             }
             

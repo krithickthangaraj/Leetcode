@@ -2,8 +2,7 @@ class Solution {
 
     public boolean containsZero(int num){
         while(num>0){
-            int sum=num%10;
-            if(sum==0) return false;
+            if(num%10==0) return false;
             num/=10;
         }
         return true;
